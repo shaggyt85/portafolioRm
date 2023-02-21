@@ -15,7 +15,7 @@ const Nav = () => {
                 <a href="#about" className='text-base text-textBase font-medium hover:text-slate-100 cursor-pointer duration-100 ease-in-out'>About</a>
                 <a href="#projects" className='text-base text-textBase font-medium hover:text-slate-100 cursor-pointer duration-100 ease-in-out'>Projects</a>
                 <a href="#contact" className='text-base text-textBase font-medium hover:text-slate-100 cursor-pointer duration-100 ease-in-out'>Contact</a>
-                <a href={cv} target="_blank" rel="noopener noreferrer" className='ml-auto text-base text-textBase font-medium hover:text-slate-100 cursor-pointer border border-textBase px-2 py-1 rounded-xl hover:border-gray-100 duration-100 ease-in-out'>Download</a>
+                <a href={cv} target="_blank" rel="noopener noreferrer" className='ml-auto text-base text-textBase font-medium hover:text-slate-100 cursor-pointer border border-textBase px-2 py-1 rounded-xl hover:border-gray-100 duration-100 ease-in-out'>Download CV</a>
             </div>  
             <motion.div 
             whileTap={{scale: 0.5}}
@@ -35,7 +35,7 @@ const Nav = () => {
                 <a href="#about" className='text-base text-textBase font-medium hover:text-slate-100 cursor-pointer duration-100 ease-in-out' onClick={ () => setIsActive(false)}>About</a>
                 <a href="#projects" className='text-base text-textBase font-medium hover:text-slate-100 cursor-pointer duration-100 ease-in-out' onClick={ () => setIsActive(false)}>Projects</a>
                 <a href="#contact" className='text-base text-textBase font-medium hover:text-slate-100 cursor-pointer duration-100 ease-in-out' onClick={ () => setIsActive(false)}>Contact</a>
-                <a href={cv} target="_blank" rel="noopener noreferrer" className='text-base text-textBase font-medium hover:text-slate-100 cursor-pointer border border-textBase px-2 py-1 rounded-xl hover:border-gray-100 duration-100 ease-in-out'>Download</a>
+                <a href={cv} target="_blank" rel="noopener noreferrer" className='text-base text-textBase font-medium hover:text-slate-100 cursor-pointer border border-textBase px-2 py-1 rounded-xl hover:border-gray-100 duration-100 ease-in-out'>Download CV</a>
                 </motion.div>
 
 )}

@@ -99,13 +99,13 @@ export const SocialLinks = [
     },
     {
         id: '4',
-        name: 'LinkeId',
+        name: 'LinkedId',
         iconsSrc: <IoLogoLinkedin className="text-linkeId text-3xl cursor-pointer" />,
         link: 'https://linkedin.com/in/robertmedina85'
     },
     {
         id: '5',
-        name: 'Whatssap',
+        name: 'Whatsapp',
         iconsSrc: <IoLogoWhatsapp className="text-whatssap text-3xl cursor-pointer" />,
         link: 'https://wa.me/584122112526'
     },
