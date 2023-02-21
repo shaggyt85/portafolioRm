@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e914f683.css",
+    "main.js": "/static/js/main.e6f222b9.js",
+    "static/js/227.a20f1f92.chunk.js": "/static/js/227.a20f1f92.chunk.js",
+    "static/js/526.0c526815.chunk.js": "/static/js/526.0c526815.chunk.js",
+    "static/js/232.8acb63e4.chunk.js": "/static/js/232.8acb63e4.chunk.js",
+    "static/js/237.59bb4ca5.chunk.js": "/static/js/237.59bb4ca5.chunk.js",
+    "static/media/landpages.png": "/static/media/landpages.2079a5baf5d879b94541.png",
+    "static/media/visibilitytech.png": "/static/media/visibilitytech.e7a7b9c9892a9941de2b.png",
+    "static/media/beerbotclub.png": "/static/media/beerbotclub.f3a32e9b1ca904da9005.png",
+    "static/media/dashboard.png": "/static/media/dashboard.ca12979fd3ecf624a692.png",
+    "static/media/me.jpg": "/static/media/me.1249ee70e04e379657f0.jpg",
+    "static/media/bmfund.png": "/static/media/bmfund.470eeb0ca8a9f230e7f3.png",
+    "static/media/RobertMedina.pdf": "/static/media/RobertMedina.722020874c3081befb00.pdf",
+    "index.html": "/index.html",
+    "main.e914f683.css.map": "/static/css/main.e914f683.css.map",
+    "main.e6f222b9.js.map": "/static/js/main.e6f222b9.js.map",
+    "227.a20f1f92.chunk.js.map": "/static/js/227.a20f1f92.chunk.js.map",
+    "526.0c526815.chunk.js.map": "/static/js/526.0c526815.chunk.js.map",
+    "232.8acb63e4.chunk.js.map": "/static/js/232.8acb63e4.chunk.js.map",
+    "237.59bb4ca5.chunk.js.map": "/static/js/237.59bb4ca5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e914f683.css",
+    "static/js/main.e6f222b9.js"
+  ]
+}
