@@ -4,6 +4,7 @@ import img2 from "../image/visibilitytech.png"
 import img3 from "../image/dashboard.png"
 import img4 from   "../image/landpages.png"
 import img5 from "../image/bmfund.png"
+import img6 from "../image/food_ecomerce.png"
 
 export const Experience = [
     {
@@ -38,6 +39,14 @@ export const Experience = [
 export const Projects = [
     {
         id: 1,
+        name: "Food E-commerce",
+        imageSrc: img6,
+        techs: "React JS, Tailwinds, Motion ",
+        github: "https://github.com/shaggyt85/crm_eccommerce",
+        web: "https://eccommerce-test.vercel.app"
+    },
+    {
+        id: 2,
         name: "BeerbotClub",
         imageSrc: img1,
         techs: "React JS, Css3, Web3 js ",
@@ -45,7 +54,15 @@ export const Projects = [
         web: "https://beerbot.club"
     },
     {
-        id: 2,
+        id: 4,
+        name: "Dashboard Api-full",
+        imageSrc: img5,
+        techs: "Reactjs, ExpressJS",
+        github: "#",
+        web: "#"
+    },
+    {
+        id: 3,
         name: "VisibilityTech",
         imageSrc: img2,
         techs: "Html5, Css3, Bootstrap ",
@@ -53,7 +70,7 @@ export const Projects = [
         web: "https://visibilitytech.cl"
     },
     {
-        id: 3,
+        id: 5,
         name: "Dashboard E-commerce",
         imageSrc: img3,
         techs: "Nextjs ",
@@ -61,21 +78,14 @@ export const Projects = [
         web: "https://github.com/shaggyt85/react-shop-admin"
     },
     {
-        id: 4,
+        id: 6,
         name: "LandPages galery",
         imageSrc: img4,
         techs: "Javascript Vainilla",
         github: "https://github.com/shaggyt85/async_landpages",
         web: "https://github.com/shaggyt85/async_landpages"
     },
-    {
-        id: 5,
-        name: "Dashboard Api-full",
-        imageSrc: img5,
-        techs: "Reactjs, ExpressJS",
-        github: "#",
-        web: "#"
-    },
+    
 ]
 
 export const SocialLinks = [
