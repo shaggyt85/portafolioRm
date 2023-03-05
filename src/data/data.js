@@ -5,6 +5,7 @@ import img3 from "../image/dashboard.png"
 import img4 from   "../image/landpages.png"
 import img5 from "../image/bmfund.png"
 import img6 from "../image/food_ecomerce.png"
+import img7 from "../image/finance_personal.png"
 
 export const Experience = [
     {
@@ -37,6 +38,14 @@ export const Experience = [
     ]
 
 export const Projects = [
+    {
+        id: 7,
+        name: "Finance Personal",
+        imageSrc: img7,
+        techs: "Vue JS, Css ",
+        github: "https://github.com/shaggyt85/Finanzas_personales",
+        web: "https://finanzas-personales-six.vercel.app"
+    },
     {
         id: 1,
         name: "Food E-commerce",
